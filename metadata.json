@@ -1,0 +1,6 @@
+{
+  "name": "Open World Car Game",
+  "description": "An Android-friendly 2D open-world car driving game featuring a vibrant city, traffic cars, red sports car, garage car selection, smooth mobile touch controls, sound effects, and free-roam driving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
